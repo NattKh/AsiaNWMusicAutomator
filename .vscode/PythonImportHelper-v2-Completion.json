@@ -1,0 +1,1359 @@
+[
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "customprint",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "customprint",
+        "description": "customprint",
+        "detail": "customprint",
+        "documentation": {}
+    },
+    {
+        "label": "custom_print",
+        "importPath": "customprint",
+        "description": "customprint",
+        "isExtraImport": true,
+        "detail": "customprint",
+        "documentation": {}
+    },
+    {
+        "label": "custom_print",
+        "importPath": "customprint",
+        "description": "customprint",
+        "isExtraImport": true,
+        "detail": "customprint",
+        "documentation": {}
+    },
+    {
+        "label": "is_game_playing",
+        "importPath": "customprint",
+        "description": "customprint",
+        "isExtraImport": true,
+        "detail": "customprint",
+        "documentation": {}
+    },
+    {
+        "label": "custom_print",
+        "importPath": "customprint",
+        "description": "customprint",
+        "isExtraImport": true,
+        "detail": "customprint",
+        "documentation": {}
+    },
+    {
+        "label": "emitter",
+        "importPath": "customprint",
+        "description": "customprint",
+        "isExtraImport": true,
+        "detail": "customprint",
+        "documentation": {}
+    },
+    {
+        "label": "custom_print",
+        "importPath": "customprint",
+        "description": "customprint",
+        "isExtraImport": true,
+        "detail": "customprint",
+        "documentation": {}
+    },
+    {
+        "label": "custom_print",
+        "importPath": "customprint",
+        "description": "customprint",
+        "isExtraImport": true,
+        "detail": "customprint",
+        "documentation": {}
+    },
+    {
+        "label": "is_game_playing",
+        "importPath": "customprint",
+        "description": "customprint",
+        "isExtraImport": true,
+        "detail": "customprint",
+        "documentation": {}
+    },
+    {
+        "label": "custom_print",
+        "importPath": "customprint",
+        "description": "customprint",
+        "isExtraImport": true,
+        "detail": "customprint",
+        "documentation": {}
+    },
+    {
+        "label": "custom_print",
+        "importPath": "customprint",
+        "description": "customprint",
+        "isExtraImport": true,
+        "detail": "customprint",
+        "documentation": {}
+    },
+    {
+        "label": "custom_print",
+        "importPath": "customprint",
+        "description": "customprint",
+        "isExtraImport": true,
+        "detail": "customprint",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigParser",
+        "importPath": "configparser",
+        "description": "configparser",
+        "isExtraImport": true,
+        "detail": "configparser",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigParser",
+        "importPath": "configparser",
+        "description": "configparser",
+        "isExtraImport": true,
+        "detail": "configparser",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "pyautogui",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pyautogui",
+        "description": "pyautogui",
+        "detail": "pyautogui",
+        "documentation": {}
+    },
+    {
+        "label": "press",
+        "importPath": "pyautogui",
+        "description": "pyautogui",
+        "isExtraImport": true,
+        "detail": "pyautogui",
+        "documentation": {}
+    },
+    {
+        "label": "mouseDown",
+        "importPath": "pyautogui",
+        "description": "pyautogui",
+        "isExtraImport": true,
+        "detail": "pyautogui",
+        "documentation": {}
+    },
+    {
+        "label": "mouseUp",
+        "importPath": "pyautogui",
+        "description": "pyautogui",
+        "isExtraImport": true,
+        "detail": "pyautogui",
+        "documentation": {}
+    },
+    {
+        "label": "pydirectinput",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pydirectinput",
+        "description": "pydirectinput",
+        "detail": "pydirectinput",
+        "documentation": {}
+    },
+    {
+        "label": "press",
+        "importPath": "pydirectinput",
+        "description": "pydirectinput",
+        "isExtraImport": true,
+        "detail": "pydirectinput",
+        "documentation": {}
+    },
+    {
+        "label": "mouseDown",
+        "importPath": "pydirectinput",
+        "description": "pydirectinput",
+        "isExtraImport": true,
+        "detail": "pydirectinput",
+        "documentation": {}
+    },
+    {
+        "label": "mouseUp",
+        "importPath": "pydirectinput",
+        "description": "pydirectinput",
+        "isExtraImport": true,
+        "detail": "pydirectinput",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "matchTemplate",
+        "importPath": "cv2",
+        "description": "cv2",
+        "isExtraImport": true,
+        "detail": "cv2",
+        "documentation": {}
+    },
+    {
+        "label": "TM_CCOEFF_NORMED",
+        "importPath": "cv2",
+        "description": "cv2",
+        "isExtraImport": true,
+        "detail": "cv2",
+        "documentation": {}
+    },
+    {
+        "label": "imread",
+        "importPath": "cv2",
+        "description": "cv2",
+        "isExtraImport": true,
+        "detail": "cv2",
+        "documentation": {}
+    },
+    {
+        "label": "imshow",
+        "importPath": "cv2",
+        "description": "cv2",
+        "isExtraImport": true,
+        "detail": "cv2",
+        "documentation": {}
+    },
+    {
+        "label": "cvtColor",
+        "importPath": "cv2",
+        "description": "cv2",
+        "isExtraImport": true,
+        "detail": "cv2",
+        "documentation": {}
+    },
+    {
+        "label": "COLOR_BGRA2BGR",
+        "importPath": "cv2",
+        "description": "cv2",
+        "isExtraImport": true,
+        "detail": "cv2",
+        "documentation": {}
+    },
+    {
+        "label": "waitKey",
+        "importPath": "cv2",
+        "description": "cv2",
+        "isExtraImport": true,
+        "detail": "cv2",
+        "documentation": {}
+    },
+    {
+        "label": "destroyAllWindows",
+        "importPath": "cv2",
+        "description": "cv2",
+        "isExtraImport": true,
+        "detail": "cv2",
+        "documentation": {}
+    },
+    {
+        "label": "matchTemplate",
+        "importPath": "cv2",
+        "description": "cv2",
+        "isExtraImport": true,
+        "detail": "cv2",
+        "documentation": {}
+    },
+    {
+        "label": "TM_CCOEFF_NORMED",
+        "importPath": "cv2",
+        "description": "cv2",
+        "isExtraImport": true,
+        "detail": "cv2",
+        "documentation": {}
+    },
+    {
+        "label": "where",
+        "importPath": "numpy",
+        "description": "numpy",
+        "isExtraImport": true,
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "ndarray",
+        "importPath": "numpy",
+        "description": "numpy",
+        "isExtraImport": true,
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "ndarray",
+        "importPath": "numpy",
+        "description": "numpy",
+        "isExtraImport": true,
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "ndarray",
+        "importPath": "numpy",
+        "description": "numpy",
+        "isExtraImport": true,
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "array",
+        "importPath": "numpy",
+        "description": "numpy",
+        "isExtraImport": true,
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "where",
+        "importPath": "numpy",
+        "description": "numpy",
+        "isExtraImport": true,
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "Timer",
+        "importPath": "helpers.local_timer",
+        "description": "helpers.local_timer",
+        "isExtraImport": true,
+        "detail": "helpers.local_timer",
+        "documentation": {}
+    },
+    {
+        "label": "Timer",
+        "importPath": "helpers.local_timer",
+        "description": "helpers.local_timer",
+        "isExtraImport": true,
+        "detail": "helpers.local_timer",
+        "documentation": {}
+    },
+    {
+        "label": "Timer",
+        "importPath": "helpers.local_timer",
+        "description": "helpers.local_timer",
+        "isExtraImport": true,
+        "detail": "helpers.local_timer",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "helpers.local_timer",
+        "description": "helpers.local_timer",
+        "isExtraImport": true,
+        "detail": "helpers.local_timer",
+        "documentation": {}
+    },
+    {
+        "label": "PressKey",
+        "importPath": "press_key.press_key",
+        "description": "press_key.press_key",
+        "isExtraImport": true,
+        "detail": "press_key.press_key",
+        "documentation": {}
+    },
+    {
+        "label": "PressKey",
+        "importPath": "press_key.press_key",
+        "description": "press_key.press_key",
+        "isExtraImport": true,
+        "detail": "press_key.press_key",
+        "documentation": {}
+    },
+    {
+        "label": "PressKey",
+        "importPath": "press_key.press_key",
+        "description": "press_key.press_key",
+        "isExtraImport": true,
+        "detail": "press_key.press_key",
+        "documentation": {}
+    },
+    {
+        "label": "QObject",
+        "importPath": "PyQt5.QtCore",
+        "description": "PyQt5.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "pyqtSignal",
+        "importPath": "PyQt5.QtCore",
+        "description": "PyQt5.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "pyqtSignal",
+        "importPath": "PyQt5.QtCore",
+        "description": "PyQt5.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QObject",
+        "importPath": "PyQt5.QtCore",
+        "description": "PyQt5.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QTimer",
+        "importPath": "PyQt5.QtCore",
+        "description": "PyQt5.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "Qt",
+        "importPath": "PyQt5.QtCore",
+        "description": "PyQt5.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QObject",
+        "importPath": "PyQt5.QtCore",
+        "description": "PyQt5.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "pyqtSignal",
+        "importPath": "PyQt5.QtCore",
+        "description": "PyQt5.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "pygetwindow",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pygetwindow",
+        "description": "pygetwindow",
+        "detail": "pygetwindow",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "QtCore",
+        "importPath": "PyQt5",
+        "description": "PyQt5",
+        "isExtraImport": true,
+        "detail": "PyQt5",
+        "documentation": {}
+    },
+    {
+        "label": "QApplication",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QMainWindow",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QPushButton",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QVBoxLayout",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QWidget",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QTextEdit",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QLabel",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QSpinBox",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QSlider",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QShortcut",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QTextCursor",
+        "importPath": "PyQt5.QtGui",
+        "description": "PyQt5.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QKeySequence",
+        "importPath": "PyQt5.QtGui",
+        "description": "PyQt5.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "KeyManager",
+        "importPath": "key_manager",
+        "description": "key_manager",
+        "isExtraImport": true,
+        "detail": "key_manager",
+        "documentation": {}
+    },
+    {
+        "label": "KeyManager",
+        "importPath": "key_manager",
+        "description": "key_manager",
+        "isExtraImport": true,
+        "detail": "key_manager",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "saving",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "saving",
+        "description": "saving",
+        "detail": "saving",
+        "documentation": {}
+    },
+    {
+        "label": "load_resolution_data",
+        "importPath": "saving",
+        "description": "saving",
+        "isExtraImport": true,
+        "detail": "saving",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "main",
+        "description": "main",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "mss.tools",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "mss.tools",
+        "description": "mss.tools",
+        "detail": "mss.tools",
+        "documentation": {}
+    },
+    {
+        "label": "PressKeyboardKey",
+        "importPath": "press_key.press_keyboard_key",
+        "description": "press_key.press_keyboard_key",
+        "isExtraImport": true,
+        "detail": "press_key.press_keyboard_key",
+        "documentation": {}
+    },
+    {
+        "label": "PressMouseKey",
+        "importPath": "press_key.press_mouse_key",
+        "description": "press_key.press_mouse_key",
+        "isExtraImport": true,
+        "detail": "press_key.press_mouse_key",
+        "documentation": {}
+    },
+    {
+        "label": "resolution_monitor",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "resolution_monitor",
+        "description": "resolution_monitor",
+        "detail": "resolution_monitor",
+        "documentation": {}
+    },
+    {
+        "label": "tkinter",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "simpledialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "screeninfo",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "screeninfo",
+        "description": "screeninfo",
+        "detail": "screeninfo",
+        "documentation": {}
+    },
+    {
+        "label": "USE_VIRTUAL_KEYS",
+        "importPath": "helpers.settings",
+        "description": "helpers.settings",
+        "isExtraImport": true,
+        "detail": "helpers.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOOP_SLEEP",
+        "importPath": "helpers.settings",
+        "description": "helpers.settings",
+        "isExtraImport": true,
+        "detail": "helpers.settings",
+        "documentation": {}
+    },
+    {
+        "label": "GAME_MONITOR",
+        "importPath": "helpers.settings",
+        "description": "helpers.settings",
+        "isExtraImport": true,
+        "detail": "helpers.settings",
+        "documentation": {}
+    },
+    {
+        "label": "X_OFFSET",
+        "importPath": "helpers.settings",
+        "description": "helpers.settings",
+        "isExtraImport": true,
+        "detail": "helpers.settings",
+        "documentation": {}
+    },
+    {
+        "label": "GAME_TITLE",
+        "importPath": "helpers.settings",
+        "description": "helpers.settings",
+        "isExtraImport": true,
+        "detail": "helpers.settings",
+        "documentation": {}
+    },
+    {
+        "label": "BUILD_NUMBER_MAJOR",
+        "importPath": "helpers.settings",
+        "description": "helpers.settings",
+        "isExtraImport": true,
+        "detail": "helpers.settings",
+        "documentation": {}
+    },
+    {
+        "label": "BUILD_NUMBER_MINOR",
+        "importPath": "helpers.settings",
+        "description": "helpers.settings",
+        "isExtraImport": true,
+        "detail": "helpers.settings",
+        "documentation": {}
+    },
+    {
+        "label": "BUILD_NUMBER_REVISION",
+        "importPath": "helpers.settings",
+        "description": "helpers.settings",
+        "isExtraImport": true,
+        "detail": "helpers.settings",
+        "documentation": {}
+    },
+    {
+        "label": "get_window",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "get_window",
+        "description": "get_window",
+        "detail": "get_window",
+        "documentation": {}
+    },
+    {
+        "label": "get_window_by_process_name",
+        "importPath": "get_window",
+        "description": "get_window",
+        "isExtraImport": true,
+        "detail": "get_window",
+        "documentation": {}
+    },
+    {
+        "label": "get_window_by_title",
+        "importPath": "get_window",
+        "description": "get_window",
+        "isExtraImport": true,
+        "detail": "get_window",
+        "documentation": {}
+    },
+    {
+        "label": "ctypes",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ctypes",
+        "description": "ctypes",
+        "detail": "ctypes",
+        "documentation": {}
+    },
+    {
+        "label": "wintypes",
+        "importPath": "ctypes",
+        "description": "ctypes",
+        "isExtraImport": true,
+        "detail": "ctypes",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "Timer",
+        "kind": 6,
+        "importPath": "helpers.local_timer",
+        "description": "helpers.local_timer",
+        "peekOfCode": "class Timer:\n    def __init__(self, duration_in_milliseconds: int = 0):\n        self.duration: int = duration_in_milliseconds\n        self.start_time: datetime = datetime.now() - timedelta(seconds=100)\n        self.active: bool = False\n    def activate(self):\n        self.active: bool = True\n        self.start_time: datetime = datetime.now()\n    def deactivate(self):\n        self.active: bool = False",
+        "detail": "helpers.local_timer",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "helpers.settings",
+        "description": "helpers.settings",
+        "peekOfCode": "config = ConfigParser()\nconfig.read('config.ini')\nUSE_VIRTUAL_KEYS: bool = config['DEFAULT'].getboolean('use_virtual_keys')\nLOOP_SLEEP: float = config['DEFAULT'].getfloat('loop_sleep')\nX_OFFSET: int = config['DEFAULT'].getint('x_offset')\nGAME_MONITOR: int = config['DEFAULT'].getint('game_monitor')\nPRINT_KEY_PRESS: bool = config['DEFAULT'].getboolean('print_key_press')\nGAME_TITLE: str = 'New World Bard'\nBUILD_NUMBER_MAJOR: int = 1\nBUILD_NUMBER_MINOR: int = 2",
+        "detail": "helpers.settings",
+        "documentation": {}
+    },
+    {
+        "label": "resize_image",
+        "kind": 2,
+        "importPath": "images.buttons.navi.resize",
+        "description": "images.buttons.navi.resize",
+        "peekOfCode": "def resize_image(input_path, output_folder, original_resolution, target_resolution):\n    # Calculate the scaling factor for width and height\n    width_scale = target_resolution[0] / original_resolution[0]\n    height_scale = target_resolution[1] / original_resolution[1]\n    # Open the image\n    with Image.open(input_path) as img:\n        # Calculate the new size based on scaling factors\n        new_width = int(img.width * width_scale)\n        new_height = int(img.height * height_scale)\n        # Resize the image with Lanczos resampling for antialiasing",
+        "detail": "images.buttons.navi.resize",
+        "documentation": {}
+    },
+    {
+        "label": "target_resolutions",
+        "kind": 5,
+        "importPath": "images.buttons.navi.resize",
+        "description": "images.buttons.navi.resize",
+        "peekOfCode": "target_resolutions = [\n    (4096, 2160),\n    (3840, 2160),\n    (3840, 1080),\n    (2560, 1600),\n    (2560, 1600),\n    (2560, 1440),\n    (2560, 1080),\n    (2048, 1536),\n    (1920, 1440),",
+        "detail": "images.buttons.navi.resize",
+        "documentation": {}
+    },
+    {
+        "label": "script_dir",
+        "kind": 5,
+        "importPath": "images.buttons.navi.resize",
+        "description": "images.buttons.navi.resize",
+        "peekOfCode": "script_dir = os.path.dirname(os.path.abspath(__file__))\n# Iterate through all files in the script's directory\nfor filename in os.listdir(script_dir):\n    if filename.endswith(\".png\"):\n        input_path = os.path.join(script_dir, filename)\n        # Extract the original file name (without extension) here\n        original_filename = os.path.splitext(os.path.basename(input_path))[0]\n        # Iterate through target resolutions\n        for resolution in target_resolutions:\n            output_folder = os.path.join(script_dir, f\"{resolution[0]}x{resolution[1]}\")",
+        "detail": "images.buttons.navi.resize",
+        "documentation": {}
+    },
+    {
+        "label": "resize_image",
+        "kind": 2,
+        "importPath": "images.buttons.res",
+        "description": "images.buttons.res",
+        "peekOfCode": "def resize_image(input_path, output_path, original_resolution, target_resolution):\n    # Calculate the scaling factor for width and height\n    width_scale = target_resolution[0] / original_resolution[0]\n    height_scale = target_resolution[1] / original_resolution[1]\n    # Open the image\n    with Image.open(input_path) as img:\n        # Calculate the new size based on scaling factors\n        new_width = int(img.width * width_scale)\n        new_height = int(img.height * height_scale)\n        # Resize the image with Lanczos resampling for antialiasing",
+        "detail": "images.buttons.res",
+        "documentation": {}
+    },
+    {
+        "label": "target_resolutions",
+        "kind": 5,
+        "importPath": "images.buttons.res",
+        "description": "images.buttons.res",
+        "peekOfCode": "target_resolutions = [\n    (2560, 1600),\n    (2560, 1440),\n    (2560, 1080),\n    (2048, 1536),\n    (1920, 1440),\n    (1920, 1080),\n    (1856, 1392),\n    (1680, 1050),\n    (1600, 1200)",
+        "detail": "images.buttons.res",
+        "documentation": {}
+    },
+    {
+        "label": "resize_image",
+        "kind": 2,
+        "importPath": "images.play_area.res",
+        "description": "images.play_area.res",
+        "peekOfCode": "def resize_image(input_path, output_path, original_resolution, target_resolution):\n    # Calculate the scaling factor for width and height\n    width_scale = target_resolution[0] / original_resolution[0]\n    height_scale = target_resolution[1] / original_resolution[1]\n    # Open the image\n    with Image.open(input_path) as img:\n        # Calculate the new size based on scaling factors\n        new_width = int(img.width * width_scale)\n        new_height = int(img.height * height_scale)\n        # Resize the image with Lanczos resampling for antialiasing",
+        "detail": "images.play_area.res",
+        "documentation": {}
+    },
+    {
+        "label": "target_resolutions",
+        "kind": 5,
+        "importPath": "images.play_area.res",
+        "description": "images.play_area.res",
+        "peekOfCode": "target_resolutions = [\n    (2560, 1600),\n    (2560, 1440),\n    (2560, 1080),\n    (2048, 1536),\n    (1920, 1440),\n    (1920, 1080),\n    (1856, 1392),\n    (1680, 1050),\n    (1600, 1200)",
+        "detail": "images.play_area.res",
+        "documentation": {}
+    },
+    {
+        "label": "resize_image",
+        "kind": 2,
+        "importPath": "output.images.buttons.navi.resize",
+        "description": "output.images.buttons.navi.resize",
+        "peekOfCode": "def resize_image(input_path, output_folder, original_resolution, target_resolution):\n    # Calculate the scaling factor for width and height\n    width_scale = target_resolution[0] / original_resolution[0]\n    height_scale = target_resolution[1] / original_resolution[1]\n    # Open the image\n    with Image.open(input_path) as img:\n        # Calculate the new size based on scaling factors\n        new_width = int(img.width * width_scale)\n        new_height = int(img.height * height_scale)\n        # Resize the image with Lanczos resampling for antialiasing",
+        "detail": "output.images.buttons.navi.resize",
+        "documentation": {}
+    },
+    {
+        "label": "target_resolutions",
+        "kind": 5,
+        "importPath": "output.images.buttons.navi.resize",
+        "description": "output.images.buttons.navi.resize",
+        "peekOfCode": "target_resolutions = [\n    (4096, 2160),\n    (3840, 2160),\n    (3840, 1080),\n    (2560, 1600),\n    (2560, 1600),\n    (2560, 1440),\n    (2560, 1080),\n    (2048, 1536),\n    (1920, 1440),",
+        "detail": "output.images.buttons.navi.resize",
+        "documentation": {}
+    },
+    {
+        "label": "script_dir",
+        "kind": 5,
+        "importPath": "output.images.buttons.navi.resize",
+        "description": "output.images.buttons.navi.resize",
+        "peekOfCode": "script_dir = os.path.dirname(os.path.abspath(__file__))\n# Iterate through all files in the script's directory\nfor filename in os.listdir(script_dir):\n    if filename.endswith(\".png\"):\n        input_path = os.path.join(script_dir, filename)\n        # Extract the original file name (without extension) here\n        original_filename = os.path.splitext(os.path.basename(input_path))[0]\n        # Iterate through target resolutions\n        for resolution in target_resolutions:\n            output_folder = os.path.join(script_dir, f\"{resolution[0]}x{resolution[1]}\")",
+        "detail": "output.images.buttons.navi.resize",
+        "documentation": {}
+    },
+    {
+        "label": "resize_image",
+        "kind": 2,
+        "importPath": "output.images.buttons.res",
+        "description": "output.images.buttons.res",
+        "peekOfCode": "def resize_image(input_path, output_path, original_resolution, target_resolution):\n    # Calculate the scaling factor for width and height\n    width_scale = target_resolution[0] / original_resolution[0]\n    height_scale = target_resolution[1] / original_resolution[1]\n    # Open the image\n    with Image.open(input_path) as img:\n        # Calculate the new size based on scaling factors\n        new_width = int(img.width * width_scale)\n        new_height = int(img.height * height_scale)\n        # Resize the image with Lanczos resampling for antialiasing",
+        "detail": "output.images.buttons.res",
+        "documentation": {}
+    },
+    {
+        "label": "target_resolutions",
+        "kind": 5,
+        "importPath": "output.images.buttons.res",
+        "description": "output.images.buttons.res",
+        "peekOfCode": "target_resolutions = [\n    (2560, 1600),\n    (2560, 1440),\n    (2560, 1080),\n    (2048, 1536),\n    (1920, 1440),\n    (1920, 1080),\n    (1856, 1392),\n    (1680, 1050),\n    (1600, 1200)",
+        "detail": "output.images.buttons.res",
+        "documentation": {}
+    },
+    {
+        "label": "resize_image",
+        "kind": 2,
+        "importPath": "output.images.play_area.res",
+        "description": "output.images.play_area.res",
+        "peekOfCode": "def resize_image(input_path, output_path, original_resolution, target_resolution):\n    # Calculate the scaling factor for width and height\n    width_scale = target_resolution[0] / original_resolution[0]\n    height_scale = target_resolution[1] / original_resolution[1]\n    # Open the image\n    with Image.open(input_path) as img:\n        # Calculate the new size based on scaling factors\n        new_width = int(img.width * width_scale)\n        new_height = int(img.height * height_scale)\n        # Resize the image with Lanczos resampling for antialiasing",
+        "detail": "output.images.play_area.res",
+        "documentation": {}
+    },
+    {
+        "label": "target_resolutions",
+        "kind": 5,
+        "importPath": "output.images.play_area.res",
+        "description": "output.images.play_area.res",
+        "peekOfCode": "target_resolutions = [\n    (2560, 1600),\n    (2560, 1440),\n    (2560, 1080),\n    (2048, 1536),\n    (1920, 1440),\n    (1920, 1080),\n    (1856, 1392),\n    (1680, 1050),\n    (1600, 1200)",
+        "detail": "output.images.play_area.res",
+        "documentation": {}
+    },
+    {
+        "label": "PressKey",
+        "kind": 6,
+        "importPath": "press_key.press_key",
+        "description": "press_key.press_key",
+        "peekOfCode": "class PressKey(ABC):\n    def __init__(self, image: ndarray,\n                 letter: Union[str, list],\n                 timer_milliseconds: int = 0,\n                 use_vk: bool = False,\n                 master_timer: Timer = None):\n        # Disable built in pause and failsafe,\n        # since we only trigger during performance mode,\n        # and when buttons reach the play area\n        pyautogui.PAUSE = 0",
+        "detail": "press_key.press_key",
+        "documentation": {}
+    },
+    {
+        "label": "PressKeyboardKey",
+        "kind": 6,
+        "importPath": "press_key.press_keyboard_key",
+        "description": "press_key.press_keyboard_key",
+        "peekOfCode": "class PressKeyboardKey(PressKey):\n    def press_key(self):\n        if self.use_vk:\n            press(self.letter)\n        else:\n            pydir_press(self.letter)",
+        "detail": "press_key.press_keyboard_key",
+        "documentation": {}
+    },
+    {
+        "label": "PressMouseKey",
+        "kind": 6,
+        "importPath": "press_key.press_mouse_key",
+        "description": "press_key.press_mouse_key",
+        "peekOfCode": "class PressMouseKey(PressKey):\n    def __init__(self, image: ndarray,\n                 button: list,\n                 timer_milliseconds: int = 0,\n                 timer_mouse_milliseconds: int = 100,\n                 use_vk: bool = False,\n                 master_timer: Timer = None):\n        super().__init__(image=image,\n                         letter=button,\n                         timer_milliseconds=timer_milliseconds,",
+        "detail": "press_key.press_mouse_key",
+        "documentation": {}
+    },
+    {
+        "label": "CustomPrintEmitter",
+        "kind": 6,
+        "importPath": "customprint",
+        "description": "customprint",
+        "peekOfCode": "class CustomPrintEmitter(QObject):\n    message_signal = pyqtSignal(str)\n    def __init__(self):\n        super().__init__()\n    def emit_message(self, message):\n        self.message_signal.emit(message)\n# Global instance of the emitter\nemitter = CustomPrintEmitter()\nlast_printed_message = None\ndef custom_print(message):",
+        "detail": "customprint",
+        "documentation": {}
+    },
+    {
+        "label": "custom_print",
+        "kind": 2,
+        "importPath": "customprint",
+        "description": "customprint",
+        "peekOfCode": "def custom_print(message):\n    global last_printed_message\n    # Convert the message to string if it's not already a string\n    message_str = str(message) if not isinstance(message, str) else message\n    if message_str != last_printed_message:\n        print(message_str)\n        last_printed_message = message_str\n        emitter.emit_message(message_str)  # Emit the message as a string",
+        "detail": "customprint",
+        "documentation": {}
+    },
+    {
+        "label": "is_game_playing",
+        "kind": 5,
+        "importPath": "customprint",
+        "description": "customprint",
+        "peekOfCode": "is_game_playing = False\n#global variable for game playing\nclass CustomPrintEmitter(QObject):\n    message_signal = pyqtSignal(str)\n    def __init__(self):\n        super().__init__()\n    def emit_message(self, message):\n        self.message_signal.emit(message)\n# Global instance of the emitter\nemitter = CustomPrintEmitter()",
+        "detail": "customprint",
+        "documentation": {}
+    },
+    {
+        "label": "emitter",
+        "kind": 5,
+        "importPath": "customprint",
+        "description": "customprint",
+        "peekOfCode": "emitter = CustomPrintEmitter()\nlast_printed_message = None\ndef custom_print(message):\n    global last_printed_message\n    # Convert the message to string if it's not already a string\n    message_str = str(message) if not isinstance(message, str) else message\n    if message_str != last_printed_message:\n        print(message_str)\n        last_printed_message = message_str\n        emitter.emit_message(message_str)  # Emit the message as a string",
+        "detail": "customprint",
+        "documentation": {}
+    },
+    {
+        "label": "last_printed_message",
+        "kind": 5,
+        "importPath": "customprint",
+        "description": "customprint",
+        "peekOfCode": "last_printed_message = None\ndef custom_print(message):\n    global last_printed_message\n    # Convert the message to string if it's not already a string\n    message_str = str(message) if not isinstance(message, str) else message\n    if message_str != last_printed_message:\n        print(message_str)\n        last_printed_message = message_str\n        emitter.emit_message(message_str)  # Emit the message as a string",
+        "detail": "customprint",
+        "documentation": {}
+    },
+    {
+        "label": "cursor_to_screen",
+        "kind": 2,
+        "importPath": "get_window",
+        "description": "get_window",
+        "peekOfCode": "def cursor_to_screen():\n    pyAG.moveTo(screen_width / 2, screen_height / 3)\ndef get_window_by_process_name(process_name):\n    try:\n        # Get the window by its process name\n        window = gw.getWindowsWithTitle(process_name)[0]\n        return window.width, window.height  # Return window width and height as resolution\n    except IndexError:\n        return None\ndef get_window_by_title(title):",
+        "detail": "get_window",
+        "documentation": {}
+    },
+    {
+        "label": "get_window_by_process_name",
+        "kind": 2,
+        "importPath": "get_window",
+        "description": "get_window",
+        "peekOfCode": "def get_window_by_process_name(process_name):\n    try:\n        # Get the window by its process name\n        window = gw.getWindowsWithTitle(process_name)[0]\n        return window.width, window.height  # Return window width and height as resolution\n    except IndexError:\n        return None\ndef get_window_by_title(title):\n    try:\n        # Get the window by its title (backup method)",
+        "detail": "get_window",
+        "documentation": {}
+    },
+    {
+        "label": "get_window_by_title",
+        "kind": 2,
+        "importPath": "get_window",
+        "description": "get_window",
+        "peekOfCode": "def get_window_by_title(title):\n    try:\n        # Get the window by its title (backup method)\n        window = pyAG.getWindowsWithTitle(title)[0]\n        return window.width, window.height  # Return window width and height as resolution\n    except IndexError:\n        return None\ndef activate_window_by_process_name(process_name):\n    try:\n        # Activate the window by its process name",
+        "detail": "get_window",
+        "documentation": {}
+    },
+    {
+        "label": "activate_window_by_process_name",
+        "kind": 2,
+        "importPath": "get_window",
+        "description": "get_window",
+        "peekOfCode": "def activate_window_by_process_name(process_name):\n    try:\n        # Activate the window by its process name\n        window = gw.getWindowsWithTitle(process_name)[0]\n        window.activate()\n    except IndexError:\n        return None\n# Usage example:\nif __name__ == \"__main__\":\n    process_name = \"NewWorld.exe\"  # Replace with your game's process name",
+        "detail": "get_window",
+        "documentation": {}
+    },
+    {
+        "label": "ScriptThread",
+        "kind": 6,
+        "importPath": "gui",
+        "description": "gui",
+        "peekOfCode": "class ScriptThread(threading.Thread):\n    def __init__(self, output_signal, key_manager):\n        threading.Thread.__init__(self)\n        self.output_signal = output_signal\n        self.key_manager = key_manager\n        self._running = True\n    def run(self):\n        print(\"ScriptThread KeyManager instance: \", id(self.key_manager))\n        try:\n            sys.stdout.write = self.custom_write",
+        "detail": "gui",
+        "documentation": {}
+    },
+    {
+        "label": "MainWindow",
+        "kind": 6,
+        "importPath": "gui",
+        "description": "gui",
+        "peekOfCode": "class MainWindow(QMainWindow):\n    output_received = pyqtSignal(str)\n    def __init__(self):\n        super().__init__()\n        self.initUI()\n        emitter.message_signal.connect(self.update_output)\n        self.key_manager = KeyManager()  # Create only one instance\n        self.script_thread = None\n        self.key_manager.signals.update_signal.connect(self.update_info)\n        print(\"MainWindow KeyManager instance: \", id(self.key_manager))  # Debugging print statement",
+        "detail": "gui",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "gui",
+        "description": "gui",
+        "peekOfCode": "app = QApplication(sys.argv)\nmainWindow = MainWindow()\nmainWindow.show()\nsys.exit(app.exec_())",
+        "detail": "gui",
+        "documentation": {}
+    },
+    {
+        "label": "mainWindow",
+        "kind": 5,
+        "importPath": "gui",
+        "description": "gui",
+        "peekOfCode": "mainWindow = MainWindow()\nmainWindow.show()\nsys.exit(app.exec_())",
+        "detail": "gui",
+        "documentation": {}
+    },
+    {
+        "label": "KeyManagerSignals",
+        "kind": 6,
+        "importPath": "key_manager",
+        "description": "key_manager",
+        "peekOfCode": "class KeyManagerSignals(QObject):\n    update_signal = pyqtSignal(dict)\nclass KeyManager:\n    def __init__(self, loop_sleep=0.1, x_offset=60, game_monitor=1, use_virtual_keys=False):\n        self.signals = KeyManagerSignals()  # Initialize signals first\n        resolution_monitor.create_supported_resolutions_file()  # Create supported resolutions file\n        # Initialize attributes\n        self.last_printed_message = None\n        self.loop_sleep = loop_sleep\n        self.game_monitor = game_monitor",
+        "detail": "key_manager",
+        "documentation": {}
+    },
+    {
+        "label": "KeyManager",
+        "kind": 6,
+        "importPath": "key_manager",
+        "description": "key_manager",
+        "peekOfCode": "class KeyManager:\n    def __init__(self, loop_sleep=0.1, x_offset=60, game_monitor=1, use_virtual_keys=False):\n        self.signals = KeyManagerSignals()  # Initialize signals first\n        resolution_monitor.create_supported_resolutions_file()  # Create supported resolutions file\n        # Initialize attributes\n        self.last_printed_message = None\n        self.loop_sleep = loop_sleep\n        self.game_monitor = game_monitor\n        self.use_virtual_keys = use_virtual_keys\n        self.timer = Timer(duration_in_milliseconds=5000)",
+        "detail": "key_manager",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def main():\n    process_name = \"NewWorld.exe\"\n    resolution = get_window.get_window_by_process_name(process_name)\n    if not resolution:\n        title = \"New World\"\n        resolution = get_window.get_window_by_title(title)\n    if resolution:\n        get_window.activate_window_by_process_name(process_name)\n        custom_print(f\"Detected game resolution: {resolution[0]}x{resolution[1]}\")\n        existing_data = saving.load_resolution_data() or {}",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "create_supported_resolutions_file",
+        "kind": 2,
+        "importPath": "resolution_monitor",
+        "description": "resolution_monitor",
+        "peekOfCode": "def create_supported_resolutions_file():\n    supported_resolutions = [\n        \"1280x720\", \"1366x768\", \"1600x900\", \"1920x1080\",\n        \"2560x1440\", \"3440x1440\", \"3840x2160\", \"4096x2160\",\n        \"5120x2880\", \"7680x4320\", \"5120x2160\", \"3840x1600\",\n        \"2560x1080\", \"3840x1200\", \"3840x1080\"\n    ]\n    with open(\"supported_resolutions.json\", \"w\") as file:\n        json.dump(supported_resolutions, file, indent=4)\n# Constants from the Windows API",
+        "detail": "resolution_monitor",
+        "documentation": {}
+    },
+    {
+        "label": "get_window_border_size",
+        "kind": 2,
+        "importPath": "resolution_monitor",
+        "description": "resolution_monitor",
+        "peekOfCode": "def get_window_border_size():\n    user32 = ctypes.WinDLL('user32', use_last_error=True)\n    border_width = user32.GetSystemMetrics(SM_CXSIZEFRAME)\n    border_height = user32.GetSystemMetrics(SM_CYSIZEFRAME)\n    title_bar_height = user32.GetSystemMetrics(SM_CYCAPTION)\n    return border_width, border_height, title_bar_height\ndef load_supported_resolutions():\n    try:\n        with open(\"supported_resolutions.json\", \"r\") as file:\n            return json.load(file)",
+        "detail": "resolution_monitor",
+        "documentation": {}
+    },
+    {
+        "label": "load_supported_resolutions",
+        "kind": 2,
+        "importPath": "resolution_monitor",
+        "description": "resolution_monitor",
+        "peekOfCode": "def load_supported_resolutions():\n    try:\n        with open(\"supported_resolutions.json\", \"r\") as file:\n            return json.load(file)\n    except (FileNotFoundError, json.JSONDecodeError):\n        return []\ndef find_closest_resolution(resolution, supported_resolutions):\n    def resolution_distance(res):\n        res_width, res_height = map(int, res.split('x'))\n        return abs(res_width - resolution[0]) + abs(res_height - resolution[1])",
+        "detail": "resolution_monitor",
+        "documentation": {}
+    },
+    {
+        "label": "find_closest_resolution",
+        "kind": 2,
+        "importPath": "resolution_monitor",
+        "description": "resolution_monitor",
+        "peekOfCode": "def find_closest_resolution(resolution, supported_resolutions):\n    def resolution_distance(res):\n        res_width, res_height = map(int, res.split('x'))\n        return abs(res_width - resolution[0]) + abs(res_height - resolution[1])\n    closest = None\n    min_distance = float('inf')\n    for res in supported_resolutions:\n        distance = resolution_distance(res)\n        if distance < min_distance:\n            min_distance = distance",
+        "detail": "resolution_monitor",
+        "documentation": {}
+    },
+    {
+        "label": "monitor_resolution",
+        "kind": 2,
+        "importPath": "resolution_monitor",
+        "description": "resolution_monitor",
+        "peekOfCode": "def monitor_resolution(interval=5):\n    supported_resolutions = load_supported_resolutions()\n    while True:\n        process_name = \"NewWorld.exe\"\n        pre_resolution = get_window_by_process_name(process_name)\n        if not pre_resolution:\n            title = \"New World\"\n            pre_resolution = get_window_by_title(title)\n        if pre_resolution:\n            border_width, border_height, title_bar_height = get_window_border_size()",
+        "detail": "resolution_monitor",
+        "documentation": {}
+    },
+    {
+        "label": "SM_CXSIZEFRAME",
+        "kind": 5,
+        "importPath": "resolution_monitor",
+        "description": "resolution_monitor",
+        "peekOfCode": "SM_CXSIZEFRAME = 32\nSM_CYSIZEFRAME = 33\nSM_CYCAPTION = 4\ndef get_window_border_size():\n    user32 = ctypes.WinDLL('user32', use_last_error=True)\n    border_width = user32.GetSystemMetrics(SM_CXSIZEFRAME)\n    border_height = user32.GetSystemMetrics(SM_CYSIZEFRAME)\n    title_bar_height = user32.GetSystemMetrics(SM_CYCAPTION)\n    return border_width, border_height, title_bar_height\ndef load_supported_resolutions():",
+        "detail": "resolution_monitor",
+        "documentation": {}
+    },
+    {
+        "label": "SM_CYSIZEFRAME",
+        "kind": 5,
+        "importPath": "resolution_monitor",
+        "description": "resolution_monitor",
+        "peekOfCode": "SM_CYSIZEFRAME = 33\nSM_CYCAPTION = 4\ndef get_window_border_size():\n    user32 = ctypes.WinDLL('user32', use_last_error=True)\n    border_width = user32.GetSystemMetrics(SM_CXSIZEFRAME)\n    border_height = user32.GetSystemMetrics(SM_CYSIZEFRAME)\n    title_bar_height = user32.GetSystemMetrics(SM_CYCAPTION)\n    return border_width, border_height, title_bar_height\ndef load_supported_resolutions():\n    try:",
+        "detail": "resolution_monitor",
+        "documentation": {}
+    },
+    {
+        "label": "SM_CYCAPTION",
+        "kind": 5,
+        "importPath": "resolution_monitor",
+        "description": "resolution_monitor",
+        "peekOfCode": "SM_CYCAPTION = 4\ndef get_window_border_size():\n    user32 = ctypes.WinDLL('user32', use_last_error=True)\n    border_width = user32.GetSystemMetrics(SM_CXSIZEFRAME)\n    border_height = user32.GetSystemMetrics(SM_CYSIZEFRAME)\n    title_bar_height = user32.GetSystemMetrics(SM_CYCAPTION)\n    return border_width, border_height, title_bar_height\ndef load_supported_resolutions():\n    try:\n        with open(\"supported_resolutions.json\", \"r\") as file:",
+        "detail": "resolution_monitor",
+        "documentation": {}
+    },
+    {
+        "label": "load_resolution_data",
+        "kind": 2,
+        "importPath": "saving",
+        "description": "saving",
+        "peekOfCode": "def load_resolution_data():\n    try:\n        with open(\"resolution_data.json\", \"r\") as file:\n            data = json.load(file)\n            return data\n    except (FileNotFoundError, json.JSONDecodeError):\n        return None\n# Load supported resolutions from JSON file\ndef load_supported_resolutions():\n    try:",
+        "detail": "saving",
+        "documentation": {}
+    },
+    {
+        "label": "load_supported_resolutions",
+        "kind": 2,
+        "importPath": "saving",
+        "description": "saving",
+        "peekOfCode": "def load_supported_resolutions():\n    try:\n        with open(\"supported_resolutions.json\", \"r\") as file:\n            return json.load(file)\n    except (FileNotFoundError, json.JSONDecodeError):\n        return []\n# Function to save resolution data to JSON file\ndef save_resolution_data(data, offset=None):\n    supported_resolutions = load_supported_resolutions()\n    resolution_str = f\"{data['resolution'][0]}x{data['resolution'][1]}\"",
+        "detail": "saving",
+        "documentation": {}
+    },
+    {
+        "label": "save_resolution_data",
+        "kind": 2,
+        "importPath": "saving",
+        "description": "saving",
+        "peekOfCode": "def save_resolution_data(data, offset=None):\n    supported_resolutions = load_supported_resolutions()\n    resolution_str = f\"{data['resolution'][0]}x{data['resolution'][1]}\"\n    if resolution_str in supported_resolutions:\n        # If offset is provided, add it to the data\n        if offset is not None:\n            data['offset'] = offset\n        with open(\"resolution_data.json\", \"w\") as file:\n            json.dump(data, file)\n    else:",
+        "detail": "saving",
+        "documentation": {}
+    },
+    {
+        "label": "save_gui_settings",
+        "kind": 2,
+        "importPath": "saving",
+        "description": "saving",
+        "peekOfCode": "def save_gui_settings(resolution, offset):\n    data = {'resolution': resolution}\n    save_resolution_data(data, offset)\n# Function to load GUI settings\ndef load_gui_settings():\n    data = load_resolution_data()\n    if data:\n        resolution = data.get('resolution', [1920, 1080])  # Default resolution\n        offset = data.get('offset', 30)  # Default offset\n        return resolution, offset",
+        "detail": "saving",
+        "documentation": {}
+    },
+    {
+        "label": "load_gui_settings",
+        "kind": 2,
+        "importPath": "saving",
+        "description": "saving",
+        "peekOfCode": "def load_gui_settings():\n    data = load_resolution_data()\n    if data:\n        resolution = data.get('resolution', [1920, 1080])  # Default resolution\n        offset = data.get('offset', 30)  # Default offset\n        return resolution, offset\n    else:\n        return [1920, 1080], 30  # Default values\ndef get_image_path(folder_type, image_name):\n    data = load_resolution_data()",
+        "detail": "saving",
+        "documentation": {}
+    },
+    {
+        "label": "get_image_path",
+        "kind": 2,
+        "importPath": "saving",
+        "description": "saving",
+        "peekOfCode": "def get_image_path(folder_type, image_name):\n    data = load_resolution_data()\n    if not data or 'resolution' not in data or 'image_paths' not in data:\n        custom_print(\"Error: Resolution data or image paths are not available.\")\n        return None\n    resolution_str = f\"{data['resolution'][0]}x{data['resolution'][1]}\"\n    folder_path = data['image_paths'].get(folder_type)\n    if folder_path and resolution_str in folder_path:\n        image_path = os.path.join(folder_type, resolution_str, image_name)\n        return image_path",
+        "detail": "saving",
+        "documentation": {}
+    },
+    {
+        "label": "update_image_paths",
+        "kind": 2,
+        "importPath": "saving",
+        "description": "saving",
+        "peekOfCode": "def update_image_paths():\n    base_dirs = ['images/buttons', 'images/play_area']\n    resolution_dirs = {}\n    for base_dir in base_dirs:\n        if os.path.exists(base_dir):\n            for item in os.listdir(base_dir):\n                item_path = os.path.join(base_dir, item)\n                if os.path.isdir(item_path):\n                    resolution_dirs.setdefault(base_dir, []).append(item)\n    data = load_resolution_data() or {}",
+        "detail": "saving",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "config = ConfigParser()\nconfig.read('config.ini')\nUSE_VIRTUAL_KEYS: bool = config['DEFAULT'].getboolean('use_virtual_keys')\nLOOP_SLEEP: float = config['DEFAULT'].getfloat('loop_sleep')\nX_OFFSET: int = config['DEFAULT'].getint('x_offset')\nGAME_MONITOR: int = config['DEFAULT'].getint('game_monitor')\nPRINT_KEY_PRESS: bool = config['DEFAULT'].getboolean('print_key_press')\nGAME_TITLE: str = 'New World Bard'\nBUILD_NUMBER_MAJOR: int = 1\nBUILD_NUMBER_MINOR: int = 2",
+        "detail": "settings",
+        "documentation": {}
+    }
+]
