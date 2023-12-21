@@ -2,17 +2,14 @@ import sys
 import threading
 from PyQt5 import QtCore
 from PyQt5.QtWidgets import QApplication, QMainWindow, QPushButton, QVBoxLayout, QWidget, QTextEdit, QLabel, QSpinBox, QSlider, QShortcut
-from PyQt5.QtCore import pyqtSignal, QObject, QTimer, Qt
+from PyQt5.QtCore import pyqtSignal, QTimer, Qt
 from PyQt5.QtGui import QTextCursor, QKeySequence
-import subprocess
 from key_manager import KeyManager
-from customprint import emitter, custom_print
-import time
+import customprint
 import saving  # Import your saving module
-
-# Import the main function from main.py
-import main
+import uuid
 from helpers.local_timer import Timer
+from customprint import emitter, custom_print, toggle_print  # Import toggle_print
 
 class ScriptThread(threading.Thread):
     def __init__(self, output_signal, key_manager):
@@ -52,6 +49,7 @@ class MainWindow(QMainWindow):
 
     def __init__(self):
         super().__init__()
+        self.setWindowTitle(str(uuid.uuid4()))  # Set a random title
         self.initUI()
         emitter.message_signal.connect(self.update_output)
         self.key_manager = KeyManager()  # Create only one instance
@@ -74,7 +72,7 @@ class MainWindow(QMainWindow):
 
 
     def initUI(self):
-        self.setWindowTitle('Control')
+        #self.setWindowTitle('Control')
         self.setGeometry(100, 100, 400, 300)
 
         # Make the window always stay on top
@@ -85,6 +83,11 @@ class MainWindow(QMainWindow):
 
         # Create a layout
         layout = QVBoxLayout()
+
+        # Add a button to toggle message display
+        self.toggle_print_button = QPushButton('Toggle Message Display', self)
+        self.toggle_print_button.clicked.connect(self.toggle_message_display)
+        layout.addWidget(self.toggle_print_button)
 
           # Create QLabel widgets to display information with default text
         self.resolution_label = QLabel("Current Resolution: No Data Available", self)
@@ -179,6 +182,11 @@ class MainWindow(QMainWindow):
             self.script_thread = None
             self._running = False
 
+    # Function to handle the toggle button click
+    def toggle_message_display(self):
+        toggle_print()
+        current_status = "On" if customprint.is_print_enabled else "Off"
+        self.toggle_print_button.setText(f'Toggle Message Display (Currently: {current_status})')
 
     def update_output(self, text):
         cursor = self.output.textCursor()  # Get the QTextCursor from QTextEdit
