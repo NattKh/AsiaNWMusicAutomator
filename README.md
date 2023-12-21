@@ -1,20 +1,30 @@
-Run via gui.py for gui, run via main.py for cmd only. Will include cleaned up requirements.txt once I fully finish the tool. 
-You should be able to add your own image for your resolutions for better detecting I just use a image resizer i didn't actaully crop it for all the resolutions. 
-Tested on 3840x2160 and 1920 x 1080 mainly, works perfectly for me at 30 offset about whatever is 30 higher than the width. Add optional slider for adjustment. 
-Resolution should update itself, when starting or pressing start script. If it doesn't there is a json file that is created you can adjust your resolution there as well as add new supported resolution and create your own folder add your own sample images and so on.
-for now here is the list of python module i have. I am not using all of it of course. 
-Used this repo as a base for this project.
-Credit to him
-https://github.com/GundirQuid/newWorldBard
-# requirements.txt
+AsiaNWMusicAutomator 
+is a sophisticated tool for screen capture and image recognition tasks, optimized for multiple screen resolutions. It features both a user-friendly graphical interface and a command-line option for various user preferences.
 
-mss==9.0.1
-numpy==1.26.2
-opencv-python==4.8.1.78
-PyDirectInput==1.0.4
-PyGetWindow==0.0.9
-PyQt5==5.15.10
-PyQt5-Qt5==5.15.2
-PyQt5-sip==12.13.0
-PyRect==0.2.0
+Features
+Dynamic Resolution Handling: Automatically updates the screen resolution on startup or script restart.
+Custom Resolution Support: Users can contribute images for different screen resolutions to improve detection.
+Adjustable Offset: An optional slider allows for fine-tuning of the offset parameter.
+Manual Configuration: Through a JSON file, users can manually adjust screen resolutions and add new ones.
+Installation
+Clone the repository:
+bash
+git clone https://github.com/NattKh/AsiaNWMusicAutomator.git
+Navigate to the cloned directory:
+bash
+
+cd AsiaNWMusicAutomator
+Install the required packages:
+
+pip install -r requirements.txt
+Usage
+For GUI: Run gui.py.
+For Command-Line Interface: Run main.py.
+Customization Guide
+To customize the tool:
+
+Add new resolutions by creating a folder under the project directory and placing the corresponding sample images.
+If the resolution is not automatically detected, adjust it manually in the generated JSON file.
+Credits
+Based on the foundation laid by GundirQuid's repository.
 
